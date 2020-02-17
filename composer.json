@@ -1,0 +1,46 @@
+{
+  "name": "maoht87/omt_zoom",
+  "type": "library",
+  "description": "Zoom PHP API Library for PHP",
+  "keywords": [
+    "zoom",
+    "laravel",
+    "api"
+  ],
+  "homepage": "http://zoom.us/",
+  "license": "GPL-3.0",
+  "authors": [
+    {
+      "name": "Mao Dao",
+      "email": "maodk61@gmail.com",
+      "role": "Developer"
+    }
+  ],
+  "repositories": {
+    "packagist": {
+      "url": "https://packagist.org",
+      "type": "composer"
+    }
+  },
+  "require": {
+    "php": ">=7.1",
+    "ext-curl": "*",
+    "ext-simplexml": "*",
+    "ext-mbstring": "*"
+  },
+  "require-dev": {
+    "php": ">=7.1",
+    "ext-mbstring": "*",
+    "composer/composer": "1.7.*@dev",
+    "phpunit/phpunit": "6.*",
+    "fzaninotto/faker": "~1.8.0",
+    "friendsofphp/php-cs-fixer": "2.*",
+    "squizlabs/php_codesniffer": "3.*",
+    "php-coveralls/php-coveralls": "2.1.*"
+  },
+  "autoload": {
+    "psr-4": {
+      "Omt\\Zoom\\": "src"
+    }
+  }
+}
