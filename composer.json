@@ -1,46 +1,39 @@
 {
-  "name": "maoht87/omt_zoom",
-  "type": "library",
-  "description": "Zoom PHP API Library for PHP",
-  "keywords": [
-    "zoom",
-    "laravel",
-    "api"
-  ],
-  "homepage": "http://zoom.us/",
-  "license": "GPL-3.0",
+  "name": "portaldna/zoomapi",
+  "description": "Zoom API v2 PHP Library.",
+  "version": "0.0.2",
+  "keywords": ["zoom", "api", "client"],
+  "license": "GPL-3.0-or-later",
+  "homepage": "https://bitbucket.org/portaldna/zoomapi",
   "authors": [
     {
-      "name": "Mao Dao",
-      "email": "maodk61@gmail.com",
-      "role": "Developer"
+      "name": "Craig Aschbrenner",
+      "email": "craig.aschbrenner@portaldna.com"
     }
   ],
-  "repositories": {
-    "packagist": {
-      "url": "https://packagist.org",
-      "type": "composer"
-    }
-  },
+  "type": "library",
   "require": {
-    "php": ">=7.1",
-    "ext-curl": "*",
-    "ext-simplexml": "*",
-    "ext-mbstring": "*"
+    "php": ">=7.0",
+    "psr/http-message": "^1.0",
+    "php-http/client-implementation": "^1.0",
+    "php-http/httplug": "^1.0",
+    "php-http/message-factory": "^1.0",
+    "php-http/discovery": "^1.0",
+    "firebase/php-jwt": "^5.0",
+    "php-http/message": "^1.7",
+    "symfony/options-resolver": "^3.1 || ^4.0",
+    "php-http/logger-plugin": "^1.0",
+    "php-http/cache-plugin": "^1.5"
   },
   "require-dev": {
-    "php": ">=7.1",
-    "ext-mbstring": "*",
-    "composer/composer": "1.7.*@dev",
-    "phpunit/phpunit": "6.*",
-    "fzaninotto/faker": "~1.8.0",
-    "friendsofphp/php-cs-fixer": "2.*",
-    "squizlabs/php_codesniffer": "3.*",
-    "php-coveralls/php-coveralls": "2.1.*"
+    "php-http/mock-client": "^0.3.2",
+    "phpunit/phpunit": "5.2.*",
+    "php-http/curl-client": "^1.7",
+    "guzzlehttp/psr7": "^1.4"
   },
   "autoload": {
     "psr-4": {
-      "Omt\\Zoom\\": "src"
+      "ZoomAPI\\": "src/"
     }
   }
 }

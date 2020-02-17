@@ -16,7 +16,7 @@
  * You should have received a copy of the GNU Lesser General Public License along
  * with ZoomClient; if not, see <http://www.gnu.org/licenses/>.
  */
-namespace Omt\BigBlueButton\Util;
+namespace Omt\Zoom\Util;
 
 /**
  * Class UrlBuilder
