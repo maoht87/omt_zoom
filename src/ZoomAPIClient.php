@@ -1,16 +1,16 @@
 <?php
 
-namespace ZoomAPI;
+namespace Omt\ZoomAPI;
 
-use ZoomAPI\Api\AbstractApi;
-use ZoomAPI\HttpClient\Builder;
+use Omt\ZoomAPI\Api\AbstractApi;
+use Omt\ZoomAPI\HttpClient\Builder;
 use Http\Client\Common\Plugin\HeaderDefaultsPlugin;
 use Http\Client\Common\Plugin\AuthenticationPlugin;
 use Http\Client\Common\Plugin\BaseUriPlugin;
 use Http\Client\Common\Plugin\ContentLengthPlugin;
 use Http\Message\Authentication\Bearer;
 use Http\Discovery\UriFactoryDiscovery;
-use ZoomAPI\Exception\InvalidArgumentException;
+use Omt\ZoomAPI\Exception\InvalidArgumentException;
 use Firebase\JWT\JWT;
 
 /**

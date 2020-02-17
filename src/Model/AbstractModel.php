@@ -1,10 +1,10 @@
 <?php
 
-namespace ZoomAPI\Model;
+namespace Omt\ZoomAPI\Model;
 
 // @todo
-// use ZoomAPI\Exception\InvalidArgumentException;
-use ZoomAPI\ZoomAPIClient;
+// use Omt\ZoomAPI\Exception\InvalidArgumentException;
+use Omt\ZoomAPI\ZoomAPIClient;
 
 /**
  * Abstract Model.

@@ -1,6 +1,6 @@
 <?php
 
-namespace ZoomAPI\Api;
+namespace Omt\ZoomAPI\Api;
 
 /**
  * Zoom Users API.

@@ -1,6 +1,6 @@
 <?php
 
-namespace ZoomAPI;
+namespace Omt\ZoomAPI;
 
 /**
  * Abstract collection.

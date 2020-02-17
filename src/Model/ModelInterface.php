@@ -1,6 +1,6 @@
 <?php
 
-namespace ZoomAPI\Model;
+namespace Omt\ZoomAPI\Model;
 
 /**
  * Model Interface.

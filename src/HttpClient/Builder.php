@@ -1,6 +1,6 @@
 <?php
 
-namespace ZoomAPI\HttpClient;
+namespace Omt\ZoomAPI\HttpClient;
 
 use Http\Client\Common\HttpMethodsClient;
 use Http\Client\Common\Plugin;

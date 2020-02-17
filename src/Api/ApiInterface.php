@@ -1,8 +1,8 @@
 <?php
 
-namespace ZoomAPI\Api;
+namespace Omt\ZoomAPI\Api;
 
-use ZoomApi\ZoomAPIClient;
+use Omt\ZoomAPI\ZoomAPIClient;
 
 /**
  * Zoom API Interface.
