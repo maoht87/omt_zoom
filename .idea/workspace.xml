@@ -2,36 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="1e2ebd21-d6ca-435c-b96c-e3b0d62d5bb1" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/omt_zoom.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/omt_zoom.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/php.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/php.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/composer.json" beforeDir="false" afterPath="$PROJECT_DIR$/composer.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/AbstractCollection.php" beforeDir="false" afterPath="$PROJECT_DIR$/src/AbstractCollection.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Api/AbstractApi.php" beforeDir="false" afterPath="$PROJECT_DIR$/src/Api/AbstractApi.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Api/AbstractItemApi.php" beforeDir="false" afterPath="$PROJECT_DIR$/src/Api/AbstractItemApi.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Api/AbstractPagerApi.php" beforeDir="false" afterPath="$PROJECT_DIR$/src/Api/AbstractPagerApi.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Api/ApiInterface.php" beforeDir="false" afterPath="$PROJECT_DIR$/src/Api/ApiInterface.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Api/Meeting.php" beforeDir="false" afterPath="$PROJECT_DIR$/src/Api/Meeting.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Api/Meetings.php" beforeDir="false" afterPath="$PROJECT_DIR$/src/Api/Meetings.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Api/Recordings.php" beforeDir="false" afterPath="$PROJECT_DIR$/src/Api/Recordings.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Api/User.php" beforeDir="false" afterPath="$PROJECT_DIR$/src/Api/User.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Api/Users.php" beforeDir="false" afterPath="$PROJECT_DIR$/src/Api/Users.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Api/Webhook.php" beforeDir="false" afterPath="$PROJECT_DIR$/src/Api/Webhook.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Api/Webhooks.php" beforeDir="false" afterPath="$PROJECT_DIR$/src/Api/Webhooks.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Collection.php" beforeDir="false" afterPath="$PROJECT_DIR$/src/Collection.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Exception/ApiException.php" beforeDir="false" afterPath="$PROJECT_DIR$/src/Exception/ApiException.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Exception/ErrorException.php" beforeDir="false" afterPath="$PROJECT_DIR$/src/Exception/ErrorException.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Exception/ExceptionInterface.php" beforeDir="false" afterPath="$PROJECT_DIR$/src/Exception/ExceptionInterface.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Exception/InvalidArgumentException.php" beforeDir="false" afterPath="$PROJECT_DIR$/src/Exception/InvalidArgumentException.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Exception/NotFoundException.php" beforeDir="false" afterPath="$PROJECT_DIR$/src/Exception/NotFoundException.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Exception/UnkownErrorException.php" beforeDir="false" afterPath="$PROJECT_DIR$/src/Exception/UnkownErrorException.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/HttpClient/Builder.php" beforeDir="false" afterPath="$PROJECT_DIR$/src/HttpClient/Builder.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Model/AbstractModel.php" beforeDir="false" afterPath="$PROJECT_DIR$/src/Model/AbstractModel.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Model/ModelInterface.php" beforeDir="false" afterPath="$PROJECT_DIR$/src/Model/ModelInterface.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Model/User.php" beforeDir="false" afterPath="$PROJECT_DIR$/src/Model/User.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/ZoomAPIClient.php" beforeDir="false" afterPath="$PROJECT_DIR$/src/ZoomAPIClient.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/ZoomClient.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -82,8 +53,25 @@
           <provider selected="true" editor-type-id="text-editor" />
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/Parameters/BaseParameters.php">
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/LICENSE">
+          <provider selected="true" editor-type-id="text-editor" />
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/README.md">
+          <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+            <state split_layout="SPLIT">
+              <first_editor relative-caret-position="397">
+                <caret line="40" selection-start-line="40" selection-end-line="40" />
+              </first_editor>
+              <second_editor />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/.gitignore">
           <provider selected="true" editor-type-id="text-editor" />
         </entry>
       </file>
@@ -92,10 +80,10 @@
           <provider selected="true" editor-type-id="text-editor" />
         </entry>
       </file>
-      <file pinned="false" current-in-tab="false">
+      <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/composer.json">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="255">
+            <state relative-caret-position="153">
               <caret line="15" column="17" selection-start-line="15" selection-start-column="16" selection-end-line="15" selection-end-column="17" />
             </state>
           </provider>
@@ -110,6 +98,7 @@
     <option name="CHANGED_PATHS">
       <list>
         <option value="$PROJECT_DIR$/composer.json" />
+        <option value="$PROJECT_DIR$/README.md" />
       </list>
     </option>
   </component>
@@ -186,6 +175,23 @@
               <item name="omt_zoom" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
             </path>
+            <path>
+              <item name="omt_zoom" type="b2602c69:ProjectViewProjectNode" />
+              <item name="omt_zoom" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="HttpClient" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="omt_zoom" type="b2602c69:ProjectViewProjectNode" />
+              <item name="omt_zoom" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="Model" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="omt_zoom" type="b2602c69:ProjectViewProjectNode" />
+              <item name="omt_zoom" type="462c0819:PsiDirectoryNode" />
+              <item name="tests" type="462c0819:PsiDirectoryNode" />
+            </path>
           </expand>
           <select />
         </subPane>
@@ -219,15 +225,16 @@
       <option name="presentableId" value="Default" />
       <updated>1581939548872</updated>
       <workItem from="1581939549917" duration="776000" />
-      <workItem from="1581951011624" duration="529000" />
+      <workItem from="1581951011624" duration="794000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="529000" />
+    <option name="totallyTimeSpent" value="794000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
+    <editor active="true" />
     <layout>
       <window_info id="Favorites" side_tool="true" />
       <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.25" />
@@ -286,13 +293,6 @@
     </option>
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/composer.json">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="255">
-          <caret line="15" column="17" selection-start-line="15" selection-start-column="16" selection-end-line="15" selection-end-column="17" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/Api/AbstractApi.php">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="493">
@@ -335,11 +335,38 @@
     <entry file="file://$PROJECT_DIR$/src/Model/ModelInterface.php">
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
+    <entry file="file://$PROJECT_DIR$/src/Parameters/BaseParameters.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="408">
+          <caret line="40" lean-forward="true" selection-start-line="40" selection-end-line="40" />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/src/Model/Meeting.php">
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/Parameters/BaseParameters.php">
+    <entry file="file://$PROJECT_DIR$/LICENSE">
       <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/README.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="397">
+            <caret line="40" selection-start-line="40" selection-end-line="40" />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/.gitignore">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/composer.json">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="153">
+          <caret line="15" column="17" selection-start-line="15" selection-start-column="16" selection-end-line="15" selection-end-column="17" />
+        </state>
+      </provider>
     </entry>
   </component>
 </project>
