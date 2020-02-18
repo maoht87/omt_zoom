@@ -1,14 +1,14 @@
 {
-  "name": "portaldna/zoomapi",
+  "name": "omt/zoomapi",
   "description": "Zoom API v2 PHP Library.",
   "version": "0.0.2",
   "keywords": ["zoom", "api", "client"],
   "license": "GPL-3.0-or-later",
-  "homepage": "https://bitbucket.org/portaldna/zoomapi",
+  "homepage": "https://github.com/maoht87/omt_bigbluebutton",
   "authors": [
     {
-      "name": "Craig Aschbrenner",
-      "email": "craig.aschbrenner@portaldna.com"
+      "name": "MaoDK",
+      "email": "maodk61@gmail.com"
     }
   ],
   "type": "library",
@@ -33,7 +33,7 @@
   },
   "autoload": {
     "psr-4": {
-      "ZoomAPI\\": "src/"
+      "Omt\\ZoomAPI\\": "src/"
     }
   }
 }

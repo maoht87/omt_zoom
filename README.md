@@ -32,16 +32,6 @@ Q. @​todo
 
 A. @​todo
 
-## Maintainers/Sponsors
-
-Current maintainers:
-
-* [Craig Aschbrenner]()
-
-This project has been sponsored by:
-
-@​todo
-
 ## Development
 
 @​todo

@@ -1,6 +1,6 @@
 <?php
 
-namespace ZoomAPI\Exception;
+namespace Omt\ZoomAPI\Exception;
 
 /**
  * Thrown when invalid arguments are passed to the ZoomAPIClient.

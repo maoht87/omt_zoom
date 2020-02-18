@@ -1,9 +1,9 @@
 <?php
 
-namespace ZoomAPI\Api;
+namespace Omt\ZoomAPI\Api;
 
-use ZoomAPI\ZoomAPIClient;
-use ZoomAPI\Exception\ApiException;
+use Omt\ZoomAPI\ZoomAPIClient;
+use Omt\ZoomAPI\Exception\ApiException;
 use Http\Discovery\StreamFactoryDiscovery;
 use Http\Message\StreamFactory;
 use Psr\Http\Message\ResponseInterface;

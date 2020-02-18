@@ -1,8 +1,8 @@
 <?php
 
-namespace ZoomAPI\Api;
+namespace Omt\ZoomAPI\Api;
 
-use ZoomAPI\Exception\InvalidArgumentException;
+use Omt\ZoomAPI\Exception\InvalidArgumentException;
 
 /**
  * Zoom Recordings API.
