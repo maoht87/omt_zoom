@@ -42,7 +42,7 @@ class User extends AbstractModel {
    * Retrieve the user.
    */
   public function fetch() {
-    return $this->fromArray($this->client->api('user')->fetch($this->getId()));
+    return $this->fromArray($this->client->api('meeting')->fetch($this->getId()));
   }
 
   /**
